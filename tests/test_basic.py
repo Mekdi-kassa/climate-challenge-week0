@@ -9,3 +9,6 @@ def test_numpy_import():
 def test_environment():
     import sys
     assert sys.version_info.major == 3
+
+
+   
